@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { TimePositionContext } from "../contexts";
-import { base } from "../base";
+import base from "../base";
 import Note from "./Note";
 import Tile from "./Tile";
 import { parse } from "../ChartParser";
