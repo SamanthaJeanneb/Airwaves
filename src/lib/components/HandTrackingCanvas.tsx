@@ -56,7 +56,7 @@ function HandTracker () {
             maxHands: 1,
             runtime: "mediapipe",
             modelType: "full",
-            solutionPath: "https://cdn.jsdelivr.net/npm/@mediapipe/hands/files",
+            solutionPath: "https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.8.1675469240/files",
           },
         );
 
